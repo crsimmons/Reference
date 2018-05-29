@@ -46,7 +46,7 @@
   `` ` ``
   ```
 
-- In cmd the escape character is `^` and in powershell its `` ` ``
+- In cmd the escape character is `^` and in powershell it's `` ` ``
 
 - When connecting to a remote mysql server through the CLI the password option can’t have a space after it.
 
